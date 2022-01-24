@@ -4,42 +4,39 @@ _Naomi Smith_
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Build](#build)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-- [License](#license)
+- [Overview](#Overview)
+- [Build](#Build)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Questions](#Questions)
+- [License](#License)
 
 ## Overview
 
-<p>Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium. Qui offenderit rapto, terribilem incessu. The voodoo sacerdos suscitat mortuos comedere carnem. Search for solum oculi eorum defunctis cerebro. Nescio an Undead zombies. Sicut malus movie horror.<p>
+<p> Books are the key to different avenues, the Book Search is available to help the user get there. Presented with options to search for books or Login/Signup. When user types in the name of a book, into the search bar. User is presented with several results. Books can be saved once user logins or makes an account. When required to sign up they are able to input email address, password and username. If user is set to login, they will provide an email address and password. Either direction, the user will be directed to their account and will be able to search books and save them. Both options can be seen in the changed menu once logged in. My saved books, will store books that the user is interested in. Books also have the ability to be removed from user's saved books. Come and read, imagine, discover and grow!  <p>
 
 ## Build
 
-<!-- - [React](https://reactjs.org/docs/getting-started.html) -->
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Node](https://nodejs.org/en/about/)
+- [Heroku](https://www.heroku.com/what)
 
 ## Installation
 
-To install necessary dependencies, please run the following command:
-' ' '
-run accurate packages
-' ' '
+To install the application you will need nodeJS and use npm install to get all the related packages for this project. In the terminal type npm run develop to interact with the application on your localhost.
 
 ## Usage
 
-<!-- [Progressive Budget](https://murmuring-atoll-81991.herokuapp.com/) -->
+![Book Search](client/src/images/books.png)
 
-## Tests
+### Live Webpage
 
-To test, please run the following command;
-' ' '
+[Book Search](https://limitless-tundra-47937.herokuapp.com/)
 
 ## Contributing
 
-Please reach out via provided Github
+Please reach out via provided Github or Email
 
 ## Questions
 
